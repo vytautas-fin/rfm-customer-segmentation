@@ -102,11 +102,12 @@ The core of this project is the calculation of RFM scores, which was performed e
 
 3. **Define RFM Segments**: Finally, customers were assigned to one of 10 distinct segments. This was done by first establishing clear business definitions for each segment (e.g., 'Champions' are recent, frequent, high-spending customers). Then, every possible combination of R, F, and M scores was logically assessed and mapped to the most appropriate segment.
 
+![rfm-segments](images/rfm-segments.png)
+
 
 ### SQL code
 
 ```sql
-
 WITH
 -- Create date parameters
 date_param AS (
