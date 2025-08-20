@@ -14,6 +14,7 @@ An interactive dashboard that uses RFM analysis to segment customers into action
 * ➡️ [**View the Interactive Dashboard on Tableau Public**](https://public.tableau.com/app/profile/vytautas.tu/viz/rfm-dashboard/RFMDashboard)
 * 💼 **[Explore my Full Tableau Portfolio](https://public.tableau.com/app/profile/vytautas.tu)**
 
+
 ## 🎯 Business Problem & Objectives
 
 In a competitive market, treating all customers the same is inefficient and costly. The key to sustainable growth is understanding who your best customers are and tailoring marketing efforts accordingly. This project was designed to solve this challenge by moving away from mass marketing towards a more targeted, data-driven approach.
@@ -81,6 +82,11 @@ The RFM analysis revealed several critical insights, leading to clear, data-driv
 - **Strategy**: Nurture these customers to increase their monetary value.
   - **Upsell & Cross-sell**: Recommend higher-value products or complementary items based on their purchase history.
   - **Engage with Promotions**: Offer targeted discounts or bundle deals to encourage larger purchases.
+
+**The At-Risk Segments: "Customers Needing Attention" & "At Risk"**
+- **Insight**: These segments include customers who used to be frequent, high-value shoppers but have not purchased recently. Combined, they represent over **$585k in potential sales** that could be lost if they are not re-engaged.
+
+- **Strategy**: Launch proactive reactivation campaigns before they are lost for good. Send personalized "We miss you!" emails with special offers and use surveys to gather feedback on their inactivity.
 
 **The Lost Customers**
 - **Insight**: The "Lost" segment is the largest by customer count (**~22% of the customer base - 932 customers**) but has the lowest frequency, and monetary value with longest recency.
